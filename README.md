@@ -14,5 +14,5 @@ conda create -p venv python==3.7 -y
 ```
 
 ```
-python3 -m pip install -r requirments.txt
+python3 -m pip install -r requirements.txt
 ```
